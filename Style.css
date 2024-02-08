@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lobster Two';
+    font-size: 22px;
+    background-color: #FF7CD0;
+    color: #15424A;
+}
+
+div {
+    justify-content: space-between;
+    display: flex;
+}
